@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Andy Konney](https://github.com/drewmacony)
 
 ### 📧 Contact
-For questions or feedback, please contact [your.email@example.com](mailto:andy.konney@gmail.com).
+For questions or feedback, please contact [andy.konney@gmail.com](mailto:andy.konney@gmail.com).
